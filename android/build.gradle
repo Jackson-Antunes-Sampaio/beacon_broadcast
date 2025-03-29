@@ -37,7 +37,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
-    namespace "com.example.beacon_broadcast"
+     namespace "pl.pszklarska.beacon_broadcast"
 }
 
 dependencies {
